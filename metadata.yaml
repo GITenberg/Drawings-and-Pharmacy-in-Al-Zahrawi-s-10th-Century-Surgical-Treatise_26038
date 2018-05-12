@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31754'
     url: http://www.gutenberg.org/2009/agents/31754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26038#Drawings-and-Pharmacy-in-Al-Zahrawi-s-10th-Century-Surgical-Treatise
 gutenberg_issued: '2008-07-12'
 gutenberg_type: Text
 identifiers:
