@@ -1,0 +1,25 @@
+_repo: Drawings-and-Pharmacy-in-Al-Zahrawi-s-10th-Century-Surgical-Treatise_26038
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26038-h/images/icover.png
+creator:
+  author:
+    agent_name: Hamarneh, Sami Khalaf
+    birthdate: 1925
+    gutenberg_agent_id: '31754'
+    url: http://www.gutenberg.org/2009/agents/31754
+description: ''
+gutenberg_issued: '2008-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Pharmacy -- Early works to 1800'
+title: Drawings and Pharmacy in Al-Zahrawi's 10th-Century Surgical Treatise
+url: http://www.gutenberg.org/ebooks/26038
